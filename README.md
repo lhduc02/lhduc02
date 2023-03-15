@@ -13,7 +13,7 @@
 </div>
 
 
-<div>
-<img src="https://komarev.com/ghpvc/?username=lehuynhduc16&style=flat-square&color=blue" alt=""/>
+<div id="badges">
+  <img src="https://komarev.com/ghpvc/?username=lehuynhduc16&style=flat-square&color=blue" alt=""/>
 </div>
 
