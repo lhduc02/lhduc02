@@ -17,10 +17,24 @@
   <img src="https://komarev.com/ghpvc/?username=lehuynhduc16&style=flat-square&color=blue" alt=""/>
 </div>
 
+---
+
+### :scientist: About me :
+
 I'm a 3rd year AI-BigData Student at Hanoi University of Science and Technology.
 
 - :telescope: With knowledge and skills such as Statistics, SQL, Python, Excel, Data Visualization, I want to become a Data Analyst after graduation and a Data Scientist after 5 years of graduation.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](lehuynhduc16)
 
+---
+
+### :hammer_and_wrench: Languages and Tools :
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-line.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+</div>
 
