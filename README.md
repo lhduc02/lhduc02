@@ -5,6 +5,7 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="300" height="150"/>
 </div>
 
+
 <!-- Link Social Network -->
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/lehuynhduc16/">
@@ -12,15 +13,12 @@
   </a>
   
   <a href="https://www.hackerrank.com/mcrc1894/">
-    <img src="https://img.shields.io/badge/HackerRank-blue?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank Badge"/>
+    <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank Badge"/>
   </a>
-  
-  <iframe src="https://hackerrank-badge.herokuapp.com/mcrc1894" style="border: 0; height: 230px; width: 240px; overflow:hidden;" scrolling="no" frameBorder="0"></iframe>
 </div>
 
-<iframe src="https://hackerrank-badge.herokuapp.com/mcrc1894" style="border: 0; height: 230px; width: 240px; overflow:hidden;" scrolling="no" frameBorder="0"></iframe>
 
-
+<!-- Counter -->
 <div id="badges" align="center">
   <img src="https://komarev.com/ghpvc/?username=lehuynhduc16&style=flat-square&color=blue" alt=""/>
 </div>
@@ -36,6 +34,7 @@ I'm a 3rd year AI-BigData Student at Hanoi University of Science and Technology.
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/lehuynhduc16-blue?style=flat&logo=Linkedin&logoColor=white)](lehuynhduc16)
 
 ---
+
 
 ### :hammer_and_wrench: Languages and Tools :
 
