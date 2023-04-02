@@ -12,6 +12,11 @@
   </a>
 </div>
 
+<div id="badges" align="center">
+  <a href="https://www.hackerrank.com/mcrc1894/">
+    <img src="https://img.shields.io/badge/HackerRank-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="HackerRank Badge"/>
+  </a>
+</div>
 
 <div id="badges" align="center">
   <img src="https://komarev.com/ghpvc/?username=lehuynhduc16&style=flat-square&color=blue" alt=""/>
