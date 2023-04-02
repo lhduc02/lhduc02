@@ -14,7 +14,12 @@
   <a href="https://www.hackerrank.com/mcrc1894/">
     <img src="https://img.shields.io/badge/HackerRank-blue?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank Badge"/>
   </a>
+  
+  <iframe src="https://hackerrank-badge.herokuapp.com/mcrc1894" style="border: 0; height: 230px; width: 240px; overflow:hidden;" scrolling="no" frameBorder="0"></iframe>
 </div>
+
+<iframe src="https://hackerrank-badge.herokuapp.com/mcrc1894" style="border: 0; height: 230px; width: 240px; overflow:hidden;" scrolling="no" frameBorder="0"></iframe>
+
 
 <div id="badges" align="center">
   <img src="https://komarev.com/ghpvc/?username=lehuynhduc16&style=flat-square&color=blue" alt=""/>
