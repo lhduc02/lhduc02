@@ -10,9 +10,7 @@
   <a href="https://www.linkedin.com/in/lehuynhduc16/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-</div>
-
-<div id="badges" align="center">
+  
   <a href="https://www.hackerrank.com/mcrc1894/">
     <img src="https://img.shields.io/badge/HackerRank-blue?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank Badge"/>
   </a>
