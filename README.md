@@ -8,6 +8,7 @@
 
 <!-- Link Social Network -->
 <div id="badges" align="center">
+  
   <a href="https://www.linkedin.com/in/lehuynhduc16/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -15,6 +16,11 @@
   <a href="https://www.hackerrank.com/mcrc1894/">
     <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank Badge"/>
   </a>
+  
+  <a href="https://www.codewars.com/users/lehuynhduc16/">
+    <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey" alt="CodeWar Badge"/>
+  </a>
+  
 </div>
 
 
