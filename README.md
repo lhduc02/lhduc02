@@ -35,25 +35,37 @@
 
 I'm a 3rd year AI-BigData Student at Hanoi University of Science and Technology.
 
-- :telescope: With knowledge and skills such as Statistics, SQL, Python, Excel, Data Visualization, I want to become a Data Analyst after graduation and a Data Scientist after 5 years of graduation.
+- :telescope: I'm a 3rd year AI-BigData Student at Hanoi University of Science and Technology.
+My hobbies are watching football, reading books, playing chess.
+I am a person with a spirit of learning, responsible for work. Outside of school hours, I often take online courses.
+I have knowledge of Python, SQL, Statistics, Data Analysis.
+Currently, I am learning more related knowledge about BI tools, AI, Machine Learning.
+My goal is to become a Data Analyst after graduation. After that, through participating in projects and improving my knowledge, I will aim to become a Data Scientist after 3 years of graduation. And the further goal after that is to become a Data Science Manager.
 
 
 ---
 
 
-### :hammer_and_wrench: Languages and Tools :
-
+### :hammer_and_wrench: Languages and Libraries :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" alt="R" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-line.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="SQL Server"  alt="SQL Server" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy"  alt="Numpy" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas"  alt="Pandas" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="Tensorflow"  alt="Tensorflow" width="40" height="40"/>&nbsp;
+</div>
+
+
+### :hammer_and_wrench: Programming Tools :
+</div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" title="Anaconda"  alt="Anaconda" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VS Code"  alt="VS Code" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg" title="R Studio"  alt="R Studio" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original-wordmark.svg" title="IntelliJ"  alt="IntelliJ" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" title="LaTeX"  alt="LaTeX" width="40" height="40"/>&nbsp;
 </div>
 
 ---
@@ -63,7 +75,5 @@ I'm a 3rd year AI-BigData Student at Hanoi University of Science and Technology.
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lehuynhduc16&theme=dark&hide_border=true&border_radius=5)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lehuynhduc16&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-
 
 
