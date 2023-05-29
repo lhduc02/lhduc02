@@ -57,7 +57,7 @@ My goal is to become a Data Analyst after graduation. After that, through partic
   <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="Tensorflow"  alt="Tensorflow" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VS Code"  alt="VS Code" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg" title="R Studio"  alt="R Studio" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original-wordmark.svg" title="IntelliJ"  alt="IntelliJ" width="40" height="40"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/768px-IntelliJ_IDEA_Icon.svg.png?20200803071016" title="IntelliJ"  alt="IntelliJ" width="40" height="40"/>&nbsp;
 </div>
 
 ---
