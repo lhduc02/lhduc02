@@ -35,13 +35,11 @@
 
 I'm a 3rd year AI-BigData Student at Hanoi University of Science and Technology.
 
-### :telescope: Future goals
-
-I'm a 3rd year AI-BigData Student at Hanoi University of Science and Technology.
-
 My hobbies are watching football, reading books, playing chess.
 
 I am a person with a spirit of learning, responsible for work. Outside of school hours, I often take online courses.
+
+### :telescope: Future goals
 
 I have knowledge of Python, SQL, Statistics, Data Analysis.
 
