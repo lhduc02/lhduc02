@@ -51,7 +51,7 @@ My goal is to become a Data Analyst after graduation. After that, through partic
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-line.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://e7.pngegg.com/pngimages/515/909/png-clipart-microsoft-sql-server-computer-servers-database-microsoft-microsoft-sql-server-server-computer.png" title="SQL Server"  alt="SQL Server" width="40" height="40"/>&nbsp;
+  <img src="https://www.svgrepo.com/download/303229/microsoft-sql-server-logo.svg" title="SQL Server"  alt="SQL Server" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy"  alt="Numpy" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas"  alt="Pandas" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="Tensorflow"  alt="Tensorflow" width="40" height="40"/>&nbsp;
