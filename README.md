@@ -35,12 +35,20 @@
 
 I'm a 3rd year AI-BigData Student at Hanoi University of Science and Technology.
 
-- :telescope: I'm a 3rd year AI-BigData Student at Hanoi University of Science and Technology.
+### :telescope: Future goals
+
+I'm a 3rd year AI-BigData Student at Hanoi University of Science and Technology.
+
 My hobbies are watching football, reading books, playing chess.
+
 I am a person with a spirit of learning, responsible for work. Outside of school hours, I often take online courses.
+
 I have knowledge of Python, SQL, Statistics, Data Analysis.
+
 Currently, I am learning more related knowledge about BI tools, AI, Machine Learning to aim at becoming a Data Analyst after graduation.
+
 After 3 years, through participating in projects and improving my knowledge, I will aim to become a Data Scientist after graduation.
+
 Then, through the process of working and improving my management ability as well as professional knowledge, I want to become a Data Science Manager.
 
 ---
