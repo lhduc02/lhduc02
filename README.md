@@ -42,9 +42,7 @@ I have knowledge of Python, SQL, Statistics, Data Analysis.
 Currently, I am learning more related knowledge about BI tools, AI, Machine Learning.
 My goal is to become a Data Analyst after graduation. After that, through participating in projects and improving my knowledge, I will aim to become a Data Scientist after 3 years of graduation. And the further goal after that is to become a Data Science Manager.
 
-
 ---
-
 
 ### :hammer_and_wrench: Languages, Libraries and Programming Tools:
 <div>
@@ -57,15 +55,12 @@ My goal is to become a Data Analyst after graduation. After that, through partic
   <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy"  alt="Numpy" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas"  alt="Pandas" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="Tensorflow"  alt="Tensorflow" width="40" height="40"/>&nbsp;
-### :hammer_and_wrench: Languages, Libraries and Programming Tools:
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VS Code"  alt="VS Code" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg" title="R Studio"  alt="R Studio" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original-wordmark.svg" title="IntelliJ"  alt="IntelliJ" width="40" height="40"/>&nbsp;
 </div>
 
-
 ---
-
 
 ### :fire: My Stats :
 
