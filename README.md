@@ -32,6 +32,8 @@
 ---
 
 ### :scientist: About me :
+Slide Introduce myself (Vietnamese): 
+[click here](https://drive.google.com/file/d/1pyiYSSW-1AfdAMgSBMjPv9E0MB-or7F5/view?usp=drive_link)
 
 I am a 3rd-year student majoring in AI and BigData at Hanoi University of Science and Technology.
 
