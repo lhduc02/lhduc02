@@ -33,7 +33,7 @@
 
 ### :scientist: About me :
 
-I am a 3rd-year student majoring in AI and BigData at Hanoi University of Science and Technology.
+I am a 4rd-year student majoring in AI and BigData at Hanoi University of Science and Technology.
 
 My hobbies are watching football, reading books, and playing chess.
 
