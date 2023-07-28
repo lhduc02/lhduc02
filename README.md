@@ -16,10 +16,7 @@
   <a href="https://www.hackerrank.com/mcrc1894/">
     <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank Badge">
   </a>
-  
-  <a href="https://developers.google.com/profile/u/lehuynhduc16">
-    <img src="https://www.gstatic.com/devrel-devsite/prod/vd0b6a72e157acde26de95ec0a4f3c963ef89b26016c053f67be2964730c81ac3/developers/images/lockup-new.svg" alt="Google for Developer Badge" width="150" heigh="20/>
-  </a>
+
   
 </div>
 
