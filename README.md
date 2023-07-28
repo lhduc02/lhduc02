@@ -1,4 +1,4 @@
-### Hi there 👋
+![image](https://github.com/lehuynhduc16/lehuynhduc16/assets/76842196/6966824d-fb54-4590-933a-2a794255e6ca)### Hi there 👋
 
 <!-- Image -->
 <div align="center">
@@ -17,8 +17,8 @@
     <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank Badge"/>
   </a>
   
-  <a href="https://www.codewars.com/users/lehuynhduc16/">
-    <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey" alt="CodeWar Badge"/>
+  <a href="https://developers.google.com/profile/u/lehuynhduc16">
+    <img src="https://www.gstatic.com/devrel-devsite/prod/vd0b6a72e157acde26de95ec0a4f3c963ef89b26016c053f67be2964730c81ac3/developers/images/lockup-new.svg" alt="Google for Developer Badge"/>
   </a>
   
 </div>
