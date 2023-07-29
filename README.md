@@ -1,4 +1,4 @@
-![image](https://github.com/lehuynhduc16/lehuynhduc16/assets/76842196/6966824d-fb54-4590-933a-2a794255e6ca)### Hi there 👋
+### Hi there 👋
 
 <!-- Image -->
 <div align="center">
