@@ -20,12 +20,6 @@
   
 </div>
 
-
-<!-- Counter -->
-<div id="badges" align="center">
-  <img src="https://komarev.com/ghpvc/?username=lehuynhduc16&style=flat-square&color=blue" alt=""/>
-</div>
-
 ---
 
 ### :scientist: About me :
