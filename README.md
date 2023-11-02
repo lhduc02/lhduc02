@@ -17,10 +17,7 @@
     <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank Badge">
   </a>
 
-  
 </div>
-
-
 
 ### :scientist: About me :
 
@@ -28,13 +25,13 @@ I am a 4rd-year student majoring in AI and BigData at Hanoi University of Scienc
 
 My hobbies are watching football, reading books, and playing chess.
 
-I'm a life-long learner, who take great responsibility for my work. To further educate myself outside school curriculum, I usually take online courses namely Python, SQL, Statistics, and Data Analysis.
+I'm a life-long learner, who take great responsibility for my work. To further educate myself outside school curriculum, I usually take online courses namely Python, SQL, and Data Analytics.
 
 ### :telescope: Future goals
 
-Currently, I am learning more knowledge about BI tools, AI, and Machine Learning to aim at becoming a Data Analyst after graduation.
+Currently, I am learning more knowledge about ETL, Cloud Computing, and Data Engineering to aim at becoming a Data Engineer after graduation.
 
-I will be participating in projects to gain practical knowledge, and in 3-year time after graduation, I see myself as a Data Scientist.
+I will be participating in projects to gain practical knowledge, and in 3-year time after graduation, I see myself as a Senior Data Engineer.
 
 Then, through the process of working and gaining insight on the company's strategy and operation, I aspire to become a Data Science Manager.
 
