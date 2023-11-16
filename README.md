@@ -5,7 +5,7 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="496" height="248"/>
 </div>
 
-
+</br>
 <!-- Link Social Network -->
 <div id="badges" align="center">
 
