@@ -2,7 +2,7 @@
 
 <!-- Image -->
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="496" height="248"/>
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="4" height="200"/>
 </div>
 
 </br>
@@ -10,13 +10,13 @@
 <div id="badges" align="center">
 
   <a href="https://www.hackerrank.com/mcrc1894/">
-    <img src="https://img.shields.io/badge/Hackerrank-89d16b?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank Badge">
+    <img src="https://img.shields.io/badge/Hackerrank-89d16b?style=for-the-badge&logo=HackerRank&logoColor=white">
   </a>
   <a href="https://www.linkedin.com/in/lehuynhduc16/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="https://developers.google.com/profile/u/lehuynhduc16/">
-    <img src="https://img.shields.io/badge/Google%20Developers-b0b30b?style=for-the-badge&logo=google&logoColor=black" alt="Google Developers Badge">
+    <img src="https://img.shields.io/badge/Google%20Dev-b0b30b?style=for-the-badge&logo=google&logoColor=black">
   </a>
 </div>
 
