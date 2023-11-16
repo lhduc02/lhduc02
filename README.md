@@ -8,15 +8,17 @@
 
 <!-- Link Social Network -->
 <div id="badges" align="center">
-  
+
+  <a href="https://www.hackerrank.com/mcrc1894/">
+    <img src="https://img.shields.io/badge/Hackerrank-gray?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank Badge">
+  </a>
   <a href="https://www.linkedin.com/in/lehuynhduc16/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
   </a>
-  
-  <a href="https://www.hackerrank.com/mcrc1894/">
-    <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank Badge">
+  <a href="https://developers.google.com/profile/u/lehuynhduc16/">
+    <img src="https://img.shields.io/badge/Google%20Developers-white?style=for-the-badge&logo=google_developers&logoColor=black" alt="Google Developer Badge">
   </a>
-
+  
 </div>
 
 ### :scientist: About me :
@@ -46,9 +48,5 @@ I'm a life-long learner, who take great responsibility for my work. I am particu
 ---
 
 ### :fire: My Stats :
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lehuynhduc16&theme=dark&hide_border=true&border_radius=5)](https://git.io/streak-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lehuynhduc16&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
 
