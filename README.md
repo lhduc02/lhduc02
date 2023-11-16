@@ -39,7 +39,8 @@ I'm a life-long learner, who take great responsibility for my work. I am particu
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Created_with_Matplotlib-logo.svg" title="Matplotlib"  alt="Matplotlib" width="60" height="60"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" title="Apache Spark"  alt="Apache Spark" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter Notebook"  alt="Jupyter Notebook" width="60" height="60"/>&nbsp;
-  <img src="https://www.svgrepo.com/show/356012/looker-icon.svg" title="Looker Studio"  alt="Looker Studio" width="60" height="60"/>&nbsp;
+  <img src="https://www.svgrepo.com/show/354012/looker-icon.svg" title="Looker Studio"  alt="Looker Studio" width="60" height="60"/>&nbsp;
+  
 </div>
 
 ---
