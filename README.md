@@ -44,8 +44,3 @@ I'm a life-long learner, who take great responsibility for my work. I am particu
   
 </div>
 
----
-
-### My Stats :
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lehuynhduc16&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
