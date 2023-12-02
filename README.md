@@ -20,7 +20,7 @@
   </a>
 </div>
 
-### :scientist: About me :
+### About me :
 
 I am a 4rd-year student majoring in AI and BigData at Hanoi University of Science and Technology.
 
@@ -32,7 +32,7 @@ I'm a life-long learner, who take great responsibility for my work. I am particu
 
 ---
 
-### :hammer_and_wrench: Languages, Libraries and Tools:
+### Languages, Libraries and Tools:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="60" height="60"/>&nbsp;
@@ -46,6 +46,6 @@ I'm a life-long learner, who take great responsibility for my work. I am particu
 
 ---
 
-### :fire: My Stats :
+### My Stats :
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lehuynhduc16&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
