@@ -28,7 +28,7 @@ My hobbies are watching football, reading books, and playing chess.
 
 I'm a life-long learner, who take great responsibility for my work. I am particularly interested in Machine Learning and Big Data Techniques.
 
-
+With 6 months of experience as a Data Analyst Intern at PPCLINK Mobile, I clearly understand the data analysis process, the appropriate tools for the process, and have accumulated all the necessary knowledge to do a good job as a Data Analyst.
 
 ---
 
