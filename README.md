@@ -9,16 +9,16 @@
 <!-- Link Social Network -->
 <div id="badges" align="center">
 
-  <a href="https://www.hackerrank.com/mcrc1894/">
+  <a href="https://www.hackerrank.com/lhduc02/">
     <img src="https://img.shields.io/badge/Hackerrank-89d16b?style=for-the-badge&logo=HackerRank&logoColor=white">
   </a>
-  <a href="https://www.linkedin.com/in/lehuynhduc16/">
+  <a href="https://www.linkedin.com/in/lhduc02/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="https://code.viblo.asia/users/duc.lh205067">
     <img src="https://img.shields.io/badge/Viblo%20Code-grey?style=for-the-badge&logo=viblo&logoColor=black">
   </a>
-  <a href="https://developers.google.com/profile/u/lehuynhduc16/">
+  <a href="https://developers.google.com/profile/u/lhduc02/">
     <img src="https://img.shields.io/badge/Google%20Dev-b0b30b?style=for-the-badge&logo=google&logoColor=black">
   </a>
 </div>
