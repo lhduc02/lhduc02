@@ -8,9 +8,11 @@
 </br>
 <!-- Link Social Network -->
 <div id="badges" align="center">
-
   <a href="https://www.hackerrank.com/lhduc02/">
     <img src="https://img.shields.io/badge/Hackerrank-89d16b?style=for-the-badge&logo=HackerRank&logoColor=white">
+  </a>
+  <a href="https://leetcode.com/u/lhduc02/">
+    <img src="https://img.shields.io/badge/LeetCode-yellow?style=for-the-badge&logo=leetcode&logoColor=black">
   </a>
   <a href="https://www.linkedin.com/in/lhduc02/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white">
