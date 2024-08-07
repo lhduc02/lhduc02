@@ -27,11 +27,15 @@
 
 ### About me :
 
-I am a 4rd-year student majoring in AI and BigData at Hanoi University of Science and Technology.
+As a Hanoi University of Science and Technology graduate majoring in AI and Big Data, as well as a passionate Data Analyst focused on Machine Learning and Big Data.
+
+I have gained practical experience through internships at PPCLINK Mobile and TP Entertainment, working on projects such as user behavior analysis, ETL processes, and big data processing with tools like Python, SQL, Apache Spark, and Hadoop.
+
+Currently, I work at Amobear Game Studio, where I evaluate marketing strategies, perform customer segmentation, and optimize IAP packages.
+
+I am skilled in Python, SQL, Looker Studio. I also have experience with mobile analytics tools like AppsFlyer and Google Analytics. I am always eager to collaborate and learn.
 
 My hobbies are watching football, reading books, and playing chess.
-
-I'm a lifelong learner who takes great responsibility for my work. I am particularly interested in Machine Learning and Big Data Techniques.
 
 ---
 
