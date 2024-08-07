@@ -27,7 +27,7 @@
 
 ### About me :
 
-As a Hanoi University of Science and Technology graduate majoring in AI and Big Data, as well as a passionate Data Analyst focused on Machine Learning and Big Data.
+As a graduate of Hanoi University of Science and Technology with a major in AI and Big Data, and a passionate Data Analyst focused on Machine Learning and Big Data, I aim to bring value to society through data.
 
 I have gained practical experience through internships at PPCLINK Mobile and TP Entertainment, working on projects such as user behavior analysis, ETL processes, and big data processing with tools like Python, SQL, Apache Spark, and Hadoop.
 
