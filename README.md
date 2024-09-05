@@ -29,7 +29,7 @@
 
 As a graduate of Hanoi University of Science and Technology with a major in AI and Big Data, and a passionate Data Analyst focused on Machine Learning and Big Data, I aim to bring value to society through data.
 
-I have gained practical experience through internships at PPCLINK Mobile and TP Entertainment, working on projects such as user behavior analysis, ETL processes, and big data processing with tools like Python, SQL, Apache Spark, and Hadoop.
+I have gained practical experience through internships at PPCLINK Mobile, working on projects such as user behavior analysis, ETL processes, and big data processing with tools like Python, SQL, Apache Spark, and Hadoop.
 
 Currently, I work at Amobear Game Studio, where I evaluate marketing strategies, perform customer segmentation, and optimize IAP packages.
 
