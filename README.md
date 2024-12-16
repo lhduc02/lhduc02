@@ -44,12 +44,10 @@ My hobbies are watching football, reading books, and playing chess.
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://symbols.getvecta.com/stencil_28/61_sql-database-generic.90b41636a8.svg" title="SQL"  alt="SQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/scala/scala-original-wordmark.svg" title="Scala" alt="Scala" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
 </div>
 
----
 
-### Python Libraries:
+### Techniques:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="NumPy"  alt="NumPy" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas"  alt="Pandas" width="40" height="40"/>&nbsp;
@@ -59,7 +57,6 @@ My hobbies are watching football, reading books, and playing chess.
   <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="PyTorch"  alt="PyTorch" width="40" height="40"/>&nbsp;
 </div>
 
----
 
 ### Tools:
 <div>
@@ -67,5 +64,6 @@ My hobbies are watching football, reading books, and playing chess.
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="Visual Studio Code"  alt="Visual Studio Code" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter Notebook"  alt="Jupyter Notebook" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" title="Apache Spark"  alt="Apache Spark" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
 </div>
 
