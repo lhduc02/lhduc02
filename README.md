@@ -50,7 +50,7 @@ My hobbies are watching football, reading books, and playing chess.
 ---
 
 ### Python Libraries:
-</div>
+<div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="NumPy"  alt="NumPy" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas"  alt="Pandas" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Created_with_Matplotlib-logo.svg" title="Matplotlib"  alt="Matplotlib" width="40" height="40"/>&nbsp;
@@ -62,7 +62,7 @@ My hobbies are watching football, reading books, and playing chess.
 ---
 
 ### Tools:
-</div>
+<div>
   <img src="https://www.svgrepo.com/show/354012/looker-icon.svg" title="Looker Studio"  alt="Looker Studio" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="Visual Studio Code"  alt="Visual Studio Code" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter Notebook"  alt="Jupyter Notebook" width="40" height="40"/>&nbsp;
