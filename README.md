@@ -47,6 +47,7 @@ My hobbies are watching football, reading books, and playing chess.
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
 </div>
 
+---
 
 ### Python Libraries:
 </div>
@@ -58,6 +59,7 @@ My hobbies are watching football, reading books, and playing chess.
   <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="PyTorch"  alt="PyTorch" width="40" height="40"/>&nbsp;
 </div>
 
+---
 
 ### Tools:
 </div>
