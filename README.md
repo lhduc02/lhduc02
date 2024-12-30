@@ -51,8 +51,8 @@ My hobbies are watching football, reading books, and playing chess.
 
 ### Data Storage:
 <div>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="S3, RDS, DynamoDB, Redshift"  alt="S3, RDS, DynamoDB, Redshift" width="30" height="30"/>&n
-    <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" title="Cloud Storage, BigQuery"  alt="Cloud Storage, BigQuery" width="30" height="30"/>&n
+    <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="S3, RDS, DynamoDB, Redshift"  alt="S3, RDS, DynamoDB, Redshift" width="30" height="30"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" title="Cloud Storage, BigQuery"  alt="Cloud Storage, BigQuery" width="30" height="30"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="30" height="30"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB"  alt="MongoDB" width="30" height="30"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/cassandra/cassandra-original.svg" title="Cassandra"  alt="Cassandra" width="30" height="30"/>&nbsp;
@@ -72,7 +72,6 @@ My hobbies are watching football, reading books, and playing chess.
 
 
 ### Data Engineering:
-<div>
     <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" title="Apache Spark"  alt="Apache Spark" width="30" height="30"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original.svg" title="Apache Kafka"  alt="Apache Kafka" width="30" height="30"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/apacheairflow/apacheairflow-original.svg" title="Apache Airflow"  alt="Apache Airflow" width="30" height="30"/>&nbsp;
@@ -80,8 +79,6 @@ My hobbies are watching football, reading books, and playing chess.
     <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-original.svg" title="kubernetes"  alt="kubernetes" width="30" height="30"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" title="FastAPI"  alt="FastAPI" width="30" height="30"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/streamlit/streamlit-plain.svg" title="Streamlit"  alt="Streamlit" width="30" height="30"/>&nbsp;
-
-</div>
 
 
 ### Other Tools and Techniques:
