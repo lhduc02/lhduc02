@@ -39,7 +39,7 @@ In my free time, I enjoy watching football, reading books, and playing chess.
 
 If you have any questions for me or would like to discuss any topic, feel free to contact me via:
 
-LinkedIn: linkedin.com/in/lhduc02/
+LinkedIn: https://www.linkedin.com/in/lhduc02/
 
 Gmail: lhduc02@gmail.com
 
