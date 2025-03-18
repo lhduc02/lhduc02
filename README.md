@@ -27,15 +27,19 @@
 
 ### About me :
 
-As a graduate of Hanoi University of Science and Technology with a major in AI and Big Data, and a passionate Data Analyst focused on Machine Learning and Big Data, I aim to bring value to society through data.
+As a former student of Hanoi University of Science and Technology, majoring in AI and Big Data, and currently a Data Analyst/Data Engineer, I aspire to create value for society through data.
 
-I have gained practical experience through internships at PPCLINK Mobile, working on projects such as user behavior analysis, ETL processes, and big data processing with tools like Python, SQL, Apache Spark, and Hadoop.
+I have hands-on experience as a Data Engineer Intern at PPCLINK Mobile, where I worked on user behavior analytics projects. I designed ETL processes for an application with 4 million Monthly Active Users and 400 million events per month, utilizing Python (Pandas, PySpark), MySQL, and ClickHouse.
 
-Currently, I work at Amobear Game Studio, where I evaluate marketing strategies, perform customer segmentation, and optimize IAP packages.
+Currently, I am working full-time at Amobear Game Studio, taking on dual roles as both a Data Analyst and a Data Engineer. As a Data Analyst, I evaluate marketing strategies, conduct customer segmentation, and optimize IAP packages to enhance user experience. At the same time, as a Data Engineer, I contributed to the development of the company's Data Platform and now take full responsibility for its operation and maintenance, ensuring its stability and efficiency.
 
-I am skilled in Python, SQL, Looker Studio. I also have experience with mobile analytics tools like AppsFlyer and Google Analytics. I am always eager to collaborate and learn.
+I have a strong passion for applied machine learning, large-scale data storage and processing technologies (such as Kafka, Spark, Flink, Airflow, etc.). Additionally, I am conducting in-depth research on Natural Language Processing (NLP) and Large Language Models (LLM).
 
-My hobbies are watching football, reading books, and playing chess.
+In my free time, I enjoy watching football, reading books, and playing chess.
+
+If you have any questions for me or would like to discuss any topic, feel free to contact me via:
+LinkedIn: linkedin.com/in/lhduc02/
+Gmail: lhduc02@gmail.com
 
 ---
 
