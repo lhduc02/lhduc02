@@ -38,7 +38,9 @@ I have a strong passion for applied machine learning, large-scale data storage a
 In my free time, I enjoy watching football, reading books, and playing chess.
 
 If you have any questions for me or would like to discuss any topic, feel free to contact me via:
+
 LinkedIn: linkedin.com/in/lhduc02/
+
 Gmail: lhduc02@gmail.com
 
 ---
