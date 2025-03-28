@@ -5,26 +5,6 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="500" height="280"/>
 </div>
 
-</br>
-<!-- Link Social Network -->
-<div id="badges" align="center">
-  <a href="https://www.hackerrank.com/lhduc02/">
-    <img src="https://img.shields.io/badge/Hackerrank-89d16b?style=for-the-badge&logo=HackerRank&logoColor=white">
-  </a>
-  <a href="https://leetcode.com/u/lhduc02/">
-    <img src="https://img.shields.io/badge/LeetCode-yellow?style=for-the-badge&logo=leetcode&logoColor=black">
-  </a>
-  <a href="https://www.linkedin.com/in/lhduc02/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="https://code.viblo.asia/users/duc.lh205067">
-    <img src="https://img.shields.io/badge/Viblo%20Code-grey?style=for-the-badge&logo=viblo&logoColor=black">
-  </a>
-  <a href="https://developers.google.com/profile/u/lhduc02/">
-    <img src="https://img.shields.io/badge/Google%20Dev-b0b30b?style=for-the-badge&logo=google&logoColor=black">
-  </a>
-</div>
-
 ### About me :
 
 As a former student of Hanoi University of Science and Technology, majoring in AI and Big Data, and currently a Data Analyst/Data Engineer, I aspire to create value for society through data.
@@ -38,9 +18,6 @@ I have a strong passion for applied machine learning, large-scale data storage a
 In my free time, I enjoy watching football, reading books, and playing chess.
 
 If you have any questions for me or would like to discuss any topic, feel free to contact me via:
-
-LinkedIn: https://www.linkedin.com/in/lhduc02/
-
 Gmail: lhduc02@gmail.com
 
 ---
