@@ -17,11 +17,9 @@ I have a strong passion for applied machine learning, large-scale data storage a
 
 In my free time, I enjoy watching football, reading books, and playing chess.
 
-If you have any questions for me or would like to discuss any topic, feel free to contact me via:
-Gmail: lhduc02@gmail.com
+If you have any questions for me or would like to discuss any topic, feel free to contact me via: lhduc02@gmail.com
 
 ---
-
 ### Coding:
 <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="30" height="30"/>&nbsp;
