@@ -27,18 +27,10 @@
  
  ### About me :
  
- As a former student of Hanoi University of Science and Technology, majoring in AI and Big Data, and currently a Data Analyst/Data Engineer, I aspire to create value for society through data.
- 
- I have hands-on experience as a Data Engineer Intern at PPCLINK Mobile, where I worked on user behavior analytics projects. I designed ETL processes for an application with 4 million Monthly Active Users and 400 million events per month, utilizing Python (Pandas, PySpark), MySQL, and ClickHouse.
- 
- Currently, I am working full-time at Amobear Game Studio, taking on dual roles as both a Data Analyst and a Data Engineer. As a Data Analyst, I evaluate marketing strategies, conduct customer segmentation, and optimize IAP packages to enhance user experience. At the same time, as a Data Engineer, I contributed to the development of the company's Data Platform and now take full responsibility for its operation and maintenance, ensuring its stability and efficiency.
- 
- I have a strong passion for applied machine learning, large-scale data storage and processing technologies (such as Kafka, Spark, Flink, Airflow, etc.). Additionally, I am conducting in-depth research on Natural Language Processing (NLP) and Large Language Models (LLM).
- 
- In my free time, I enjoy watching football, reading books, and playing chess.
- 
- If you have any questions for me or would like to discuss any topic, feel free to contact me via:
- 
- LinkedIn: https://www.linkedin.com/in/lhduc02/
- 
- Gmail: lhduc02@gmail.com
+I am a Data Engineer at Joybit Game Studio, where I design and maintain scalable ELT pipelines on Google Cloud Platform using BigQuery, Airflow, and dbt. My work focuses on building reliable, production-grade data systems that power analytics and support business decision-making.
+
+Previously at Amobear Technology Group, I contributed to the development of a data platform processing over one billion records per month. I worked across both data engineering and analytics functions, collaborating with product and marketing teams to improve user segmentation, optimize IAP strategies, and enhance key business metrics through data-driven insights.
+
+I am particularly interested in data warehouse architecture, pipeline optimization, and production reliability. My goal is to continuously deepen my understanding of scalable data systems and system design principles, while also exploring applied machine learning from a production and infrastructure perspective.
+
+Always open to conversations about data architecture, warehouse optimization, and production reliability.
